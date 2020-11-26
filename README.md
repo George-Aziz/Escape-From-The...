@@ -51,10 +51,10 @@ Once the <G> key has been pressed the entry to the portal besides the player wil
 All Ground Loot/ Pick-up items are automated i.e. The player can simply walk over them to pick up.
 
 There are multiple keyboard inputs that can be found below:
-- <O> Makes the world very bright without the need of a torch
-- <L> & <K> Decrease/Increase torch brightness radius
-- <G> Gives hammers to man standing besides portal (Must be close to the man)
-- <P> Toggle a different projection type into Orthographic or Perspective depending on which projection is current active
+- [O] Makes the world very bright without the need of a torch
+- [L] & [K] Decrease/Increase torch brightness radius
+- [G] Gives hammers to man standing besides portal (Must be close to the man)
+- [P] Toggle a different projection type into Orthographic or Perspective depending on which projection is current active
 
 In addition to the keyboard inputs, you can use the mouse to look around
 
